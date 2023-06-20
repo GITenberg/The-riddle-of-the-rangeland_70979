@@ -1,0 +1,26 @@
+_repo: The-riddle-of-the-rangeland_70979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parkhill, Forbes
+    gutenberg_agent_id: '56021'
+    url: http://www.gutenberg.org/2009/agents/56021
+description: ''
+gutenberg_issued: '2023-06-15'
+identifiers:
+  gutenberg: '70979'
+language: en
+pgterms:marc904: https://archive.org/details/blue-book-v-038-n-04-1924-02
+pgterms:marc905: 20230125190522parkhill
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark.
+publication_note: '  $aUnited States :$bThe Consolidated Magazines Corporation (Blue
+  Book Magazine), $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The riddle of the rangeland
+url: http://www.gutenberg.org/ebooks/70979
